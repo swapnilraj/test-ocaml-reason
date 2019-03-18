@@ -1,0 +1,10 @@
+opam-version: "2.0"
+synopsis: "/Users/thawne/dev/swapnilraj/test-ocaml"
+opam-root: "/Users/thawne/.opam"
+paths {
+  
+}
+variables {
+  user: "rajs"
+  group: "staff"
+}
